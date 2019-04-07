@@ -1,6 +1,9 @@
 ---
 layout: default
+title: boushi-bird@Github
 ---
+
+### 作ったもの
 
 ### Google Analytics ついて
 
