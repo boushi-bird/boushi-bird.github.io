@@ -5,6 +5,9 @@ title: boushi-bird@Github
 
 ### 作ったもの
 
+- [三国志大戦デッキシミュレーター](/3594t-deck/)
+- [三国志大戦 解任ブックマークレット](/3594t-discard-bookmarklet/)
+
 ### Google Analytics ついて
 
 このページはアクセス状況確認のため、Google Analytics を使用して

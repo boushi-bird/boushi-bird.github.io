@@ -1,4 +1,5 @@
 User-agent: *
 
+Sitemap: https://boushi-bird.github.io/sitemap.xml
 Sitemap: https://boushi-bird.github.io/3594t-deck/sitemap.xml
 Sitemap: https://boushi-bird.github.io/3594t-discard-bookmarklet/sitemap.xml

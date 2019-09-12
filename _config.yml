@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 lang: ja
 google_tag_manager: GTM-NFHN8MZ
+plugins:
+  - jekyll-sitemap
