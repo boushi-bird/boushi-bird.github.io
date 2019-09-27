@@ -1,15 +1,17 @@
 theme: jekyll-theme-minimal
 lang: ja
-google_tag_manager: GTM-WFQ64LJ
+title: 三国志大戦デッキシミュレーター
+description: 三国志大戦デッキシミュレーター
 plugins:
   - jekyll-sitemap
 defaults:
   - scope:
-      path: 3594t-deck/dependencies.md
+      path: dependencies.md
     values:
       sitemap: false
   - scope:
-      path: 3594t-deck/updateinfo.html
+      path: updateinfo.html
     values:
       sitemap: false
 url: 'https://boushi-bird.github.io'
+google_tag_manager: GTM-WFQ64LJ
