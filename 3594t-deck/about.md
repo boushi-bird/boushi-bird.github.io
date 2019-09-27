@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About|三国志大戦デッキシミュレーター
+canonical_url: https://3594t-deck.github.io/about.html
 ---
 
 # このツールについて

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Licenses
+canonical_url: https://3594t-deck.github.io/about.html
 ---
 
 # 使用している素材
