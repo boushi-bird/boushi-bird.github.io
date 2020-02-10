@@ -5,11 +5,7 @@ plugins:
   - jekyll-sitemap
 defaults:
   - scope:
-      path: 3594t-deck/dependencies.md
-    values:
-      sitemap: false
-  - scope:
-      path: 3594t-deck/updateinfo.html
+      path: 3594t-deck/index.html
     values:
       sitemap: false
 url: 'https://boushi-bird.github.io'
