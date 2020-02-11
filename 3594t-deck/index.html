@@ -48,6 +48,9 @@
         location.href = link;
       }, 5000);
     });
+    window.addEventListener('beforeinstallprompt', function (event) {
+      event.preventDefault();
+    });
   </script>
 </head>
 
