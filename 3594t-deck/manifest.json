@@ -2,7 +2,7 @@
   "name": "URLを変更しました。: 三国志大戦デッキシミュレーター",
   "short_name": "deleted 3594t deck",
   "description": "URLを変更しました。: アーケードゲーム三国志大戦のデッキシミュレーターです",
-  "display": "standalone",
+  "display": "browser",
   "background_color": "white",
   "theme_color": "#40a1b2",
   "start_url": "./?source=pwa",
