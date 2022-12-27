@@ -6,6 +6,7 @@ title: boushi-bird@Github
 ### 作ったもの
 
 - [英傑大戦デッキシミュレーター](/eiketsu-deck/)
+- [英傑大戦 総プレイ料金ブックマークレット](/eiketsu-fees/)
 - [三国志大戦デッキシミュレーター](https://3594t-deck.github.io)
 - [三国志大戦 解任ブックマークレット](/3594t-discard-bookmarklet/)
 
